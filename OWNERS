@@ -1,0 +1,6 @@
+filters:
+  ".*":
+    reviewers:
+      - liys87x
+    approvers:
+      - liys87x
